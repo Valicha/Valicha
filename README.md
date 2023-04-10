@@ -9,7 +9,7 @@
 
 ### :woman_technologist: Sobre mí :
 Disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa de publicidad pero necesito nuevos retos :muscle:
+* :telescope: Necesito nuevos retos :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
